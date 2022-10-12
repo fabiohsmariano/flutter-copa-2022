@@ -8,7 +8,7 @@ class ListaEquipes extends StatelessWidget {
       "nome": "Alemanha",
       "grupo": "E",
       "url_simbolo":
-          "https://upload.wikimedia.org/wikipedia/commons/1/10/Escudo_Sele%C3%A7%C3%A3o_Alem%C3%A3_de_Futebol.jpg"
+          "https://upload.wikimedia.org/wikipedia/en/e/e3/DFBEagle.svg"
     },
     {
       "nome": "Arábia Saudita",
@@ -67,7 +67,7 @@ class ListaEquipes extends StatelessWidget {
       "nome": "Costa Rica",
       "grupo": "E",
       "url_simbolo":
-          "https://upload.wikimedia.org/wikipedia/commons/c/ce/Novo_escudo_da_Sele%C3%A7%C3%A3o_da_Costa_Rica.png"
+          "https://upload.wikimedia.org/wikipedia/en/8/8d/Costa_Rica_national_football_team_logo.svg"
     },
     {
       "nome": "Croácia",
@@ -111,12 +111,6 @@ class ListaEquipes extends StatelessWidget {
           "https://upload.wikimedia.org/wikipedia/pt/6/67/Ghana_Football_Association.png"
     },
     {
-      "nome": "Holanda",
-      "grupo": "A",
-      "url_simbolo":
-          "https://upload.wikimedia.org/wikipedia/pt/a/a1/Netherlands_national_football_team_logo_2017.png"
-    },
-    {
       "nome": "Inglaterra",
       "grupo": "B",
       "url_simbolo":
@@ -153,6 +147,12 @@ class ListaEquipes extends StatelessWidget {
           "https://upload.wikimedia.org/wikipedia/en/d/dc/Wales_national_football_team_logo.svg"
     },
     {
+      "nome": "Países Baixos",
+      "grupo": "A",
+      "url_simbolo":
+          "https://upload.wikimedia.org/wikipedia/pt/a/a1/Netherlands_national_football_team_logo_2017.png"
+    },
+    {
       "nome": "Polônia",
       "grupo": "C",
       "url_simbolo":
@@ -180,10 +180,10 @@ class ListaEquipes extends StatelessWidget {
       "nome": "Suíça",
       "grupo": "G",
       "url_simbolo":
-          "https://upload.wikimedia.org/wikipedia/pt/9/96/SFV_Logo.svg.png"
+          "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
     },
     {
-      "nome": "Tunisia",
+      "nome": "Tunísia",
       "grupo": "D",
       "url_simbolo":
           "https://upload.wikimedia.org/wikipedia/pt/8/88/F%C3%A9d%C3%A9ration_Tunisienne_de_Football.png"
